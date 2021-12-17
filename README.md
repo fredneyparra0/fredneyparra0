@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+Web developer, 1 año en este mundo de TI apasionado por aprender nuevas tecnologias dia a dia. He trabajado con tecnologias como Angular, Ngrx, TypeScript, Node, Graphql, Apollo-Server  
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
