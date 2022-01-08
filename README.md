@@ -1,4 +1,9 @@
 ### Hi there 👋
+## Full Stack Developer with 9 months of experience
+## I have used frontend technologies like vanilla js, angular, apollo-angular, graphql and I am currently learning react js
+## and in the backend I have used nodejs, express, mongoose, typescript, graphql, jsonwebtoken, graphql-compoose-mongoose 
+
+## improving every day and learning new technologies
 
 <!--
 **fredneyparra0/fredneyparra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
